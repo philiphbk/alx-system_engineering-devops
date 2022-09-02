@@ -1,1 +1,2 @@
-rm /tmp/my_first_dictionary
+#!/bin/bash
+rm /tmp/holberton/betty
